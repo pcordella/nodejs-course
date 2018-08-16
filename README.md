@@ -1,6 +1,7 @@
 # udemy-nodejs
 
 
+- what is node 
 - create app.js
 - require os, fs 
 - require mymodule, exports
